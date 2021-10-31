@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Threading;
 
-namespace Hanes_Anca_Maria_Lab2
+namespace Arseni_Teodora_Madalina_Lab2
 {
     class DoughnutMachine
     {
